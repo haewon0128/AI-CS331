@@ -1,0 +1,6 @@
+===Used trainingSet.txt for both training and testing===
+the percentage of the train set accuracy is 92.7855711423%
+
+
+===Used trainingSet.txt for training and used testSet.txt for testing===
+the percentage of the test set accuracy is 76.861167002%
